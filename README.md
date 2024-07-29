@@ -1,8 +1,8 @@
-<h3> Hi, I'm Grey😊, an Interface Designer & Developer specialising in reactJS</h3>
+<h3> Hi, I'm Grey😊, an Interface Designer & Developer</h3>
 <i>My focus is for users to understand and connect with complex systems <br/> through functional and intuitive interface builds.</i>
 
 <h4>Languages & Frameworks</h4>
-
+<h5>SPEACIALISING IN REAACTJS</h5>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
