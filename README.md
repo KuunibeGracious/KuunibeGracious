@@ -1,4 +1,4 @@
-<h3> Hi, I'm Grey😊, an User Interface Developer</h3>
+<h3> Hi, I'm Grey😊, User Interface Developer</h3>
 <i>My focus is for users to understand and connect with complex systems <br/> through functional and intuitive interface builds.</i>
 
 <h4>Languages & Frameworks</h4>
